@@ -1,0 +1,44 @@
+{
+  "id": "4677034",
+  "name": "study",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "903796",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "5387729",
+      "name": "新闻",
+      "font_class": "xinwen",
+      "unicode": "eb42",
+      "unicode_decimal": 60226
+    },
+    {
+      "icon_id": "6775644",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "eca1",
+      "unicode_decimal": 60577
+    },
+    {
+      "icon_id": "41623421",
+      "name": "icon-kfckfc",
+      "font_class": "arrow-forward-outline",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "41623422",
+      "name": "arrow-back-outline",
+      "font_class": "arrow-back-outline",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
